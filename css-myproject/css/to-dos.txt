@@ -1,0 +1,11 @@
+Fix TVR logo scaling in top left corner
+    Such as when scaling down webpage (via @media)
+
+Change Blender Porfolio paragragph text
+    Maybe add another picture to right side of text (since max page width is now 1080)
+
+Revise Work Experience
+    Add other relevant Jobs
+    Add relevant freelance Work
+
+Add some video and image renders for Blender Portfolio (projects-page.html)
